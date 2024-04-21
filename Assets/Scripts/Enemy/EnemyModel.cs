@@ -1,16 +1,9 @@
 using UnityEngine;
 
-public class EnemyModel : MonoBehaviour
+namespace CompactMORPG
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public class EnemyModel : MonoBehaviour
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+    
     }
 }
